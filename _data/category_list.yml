@@ -1,0 +1,19 @@
+#This file defines all the categories you 
+
+
+
+dashboard:
+  name: veille-coronavirus.fr
+  description: Ce qu'il faut savoir sur veille-coronavirus.fr
+projets-en-cours:
+  name: Projets en cours
+  description:
+recolte-donnees:
+  name: Données covid-19 / France
+  description: Nous avons toujours besoin d'un coup de main pour récolter et vérifier les données récoltées
+comment-contribuer:
+  name: Comment contribuer ?
+  description: Bienvenue, voici quelques informations
+qui-sommes-nous:
+  name: Qui sommes-nous ?
+  description: Une description de l'initiative
