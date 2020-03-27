@@ -2,7 +2,7 @@
 layout: post
 title: "Comment contribuer ?"
 date: 2020-03-13 08:44:38 -0400
-category: dashboard
+category: dashboard-fr
 author: admin
 short-description: www.veille-coronavirus.fr
 ---
