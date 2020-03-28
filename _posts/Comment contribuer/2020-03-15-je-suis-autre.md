@@ -9,7 +9,7 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-**Nous recherchons des volontaires motivés pour assurer : **
+**Nous recherchons des volontaires motivés pour assurer :**
 - du support et et dl'assistance au déploiement
 - de la mise en relation
 - de la communication
