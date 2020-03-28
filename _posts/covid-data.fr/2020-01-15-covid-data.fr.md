@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Les données"
+title: "Covid-data"
 date: 2020-03-19 08:44:38 -0400
-category: covid-data-fr
-author: mac
-short-description: Ce qui est disponible
+category: collect, documentation
+author: Raphael Lasseri, Caroline Allix-Béguec
+short-description: Partage de soignants, lits, respirateurs, matériel de protection entre hopitaux publics et privés
 ---
 
 -----
@@ -19,9 +19,16 @@ Nous sommes une équipe de docteurs en sciences, spécialisés en intelligence a
 
 **Livrable** : http://covid-data.fr/
 
-**Organisation du projet 
+**Organisation du projet** 
 - sur les canaux slack : 
   - wp-dat-collecte-donnees-rea
 
+# Protocoles de soins et recommandations
 
+Base documentaire à l’attention des professionnels de santé rassemblant les recommandations des sociétés savantes et les guides méthodologiques des autorités de santé
 
+**Product Owner** : Caroline Allix-Béguec
+
+**Objectif** : fournir de la documentation élaborée par les différents professionnels de santé sur le Covid 19 
+
+**Livrable** : http://covid-data.fr/
