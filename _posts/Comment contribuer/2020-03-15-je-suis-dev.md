@@ -13,7 +13,7 @@ short-description: Ce que nous faisons et comment aider
 En tant que développeur, vous savez utiliser des outils que les ingénieurs les plus avancés ne connaissent pas toujours très bien. Notamment en termes d'UI/UX mais également sur les technologies Back-End et les librairies de datavisualisation.
 
 **Vous pouvez particulièrement aider** les projets qui se contruisent ici, si vous maitrisez les stacks suivantes :
-- d3js, matplotlib, plotly et autre librairie de dataviz
+- d3js, matplotlib, plotly et autres librairies de dataviz
 - Python-django, Python
 - Nodejs, angular, react, vuejs
 - SQL, Mongodb, Redis, fonctionnalités CRUD (create read update delete)
