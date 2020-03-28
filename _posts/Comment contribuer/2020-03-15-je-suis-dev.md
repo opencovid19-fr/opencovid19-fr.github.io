@@ -27,6 +27,7 @@ Il y a actuellement beaucoup de projets et leur nombre ne cesse de s'accroître.
 **Pour contribuer activement, voici là procédure à suivre:**
 1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
 2. Connectez vous au Workspace Slack [Data Against Covid-19](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
-3. Rejoignez en priorité le canal [#Reserve-tech](https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/thread/CV3M7RE8Y-1585336854.107000) et surveillez l'apparition de nouvelles missions
-4. Surveillez les canaux nommés prj-\*\*\*, ces projets ont probablement besoin de vous
+3. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
+4. Rejoignez en priorité le canal [#Reserve-tech](https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/thread/CV3M7RE8Y-1585336854.107000) et surveillez l'apparition de nouvelles missions
+5. Surveillez les canaux nommés prj-\*\*\*, ces projets ont probablement besoin de vous
 
