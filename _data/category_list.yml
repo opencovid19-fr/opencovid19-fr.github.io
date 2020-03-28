@@ -2,13 +2,13 @@
 
 
 
-veille-coronavirus-fr:
+dataviz-fr:
   name: veille-coronavirus.fr
   description: Tableau de bord de suivi de l’épidémie de nouveau coronavirus
 votre-projet:
   name: Votre projet {ICI}
   description: description
-pharm-help:
+networking:
   name: Pharm'Help
   description: description
 covid-data-fr:
@@ -20,3 +20,9 @@ comment-contribuer:
 qui-sommes-nous:
   name: Qui sommes-nous ?
   description: Une description de l'initiative
+dataviz:
+  name: tiny.cc_covidfr
+  description:
+collect-documentation:
+  name: Covid-data
+  description:
