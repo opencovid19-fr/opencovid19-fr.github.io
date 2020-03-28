@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -30,16 +30,16 @@ use_authors: false #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: Data Against COVID-19 / FR
 header: Data Against COVID-19 / FR
-subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation et de prédiction.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus.
+subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus. </br></br> <font color="#81BEF7">Comment Participer ?</font> </br></br> Une fois connecté sur le slack de l'initiative, Obtenez de l'aide à tout moment en tapant la commande /community dans votre barre de message.
 meta_image: odin-meta.png
 
 # Social Links
 twitter_username: opencovid19
 facebook_page: https://www.facebook.com/Data-Against-Covid-19-100330834953672/
 github_username: opencovid19-fr
-email: 
+email:
 linkedin_page: https://www.linkedin.com/company/data-against-covid-19/
-instagram_username: 
+instagram_username:
 
 
 # Navivation
