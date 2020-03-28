@@ -9,10 +9,13 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-Odin is the Norse god of knowledge. He'll help deliver knowledge to your customers with his ravens.
+**Nous recherchons des volontaires motivés pour assurer :**
+- du support et et de l'assistance au déploiement
+- de la mise en relation
+- de la communication
 
-Odin was built out of a frustration with various knowledge base and support software solutions and a desire to build something for the sake of building something.
+**Merci de vous rapprocher des modérateurs du Slack pour plus de précision**
 
-**More info coming soon**
+Pour obtenir la liste des modérateurs, vous pouvez demander à notre bot **Community**, grâce à la commande `/community` (à taper dans votre barre de message)
 
 
