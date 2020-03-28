@@ -30,7 +30,7 @@ use_authors: false #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: Data Against COVID-19 / FR
 header: Data Against COVID-19 / FR
-subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus. </br></br> <font color="#81BEF7">Comment Participer ?</font> </br></br> Une fois connecté sur le slack de l'initiative, obtenez de l'aide à tout moment en tapant la commande /community dans votre barre de message.
+subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus.
 meta_image: odin-meta.png
 
 # Social Links
