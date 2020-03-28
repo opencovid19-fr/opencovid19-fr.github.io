@@ -15,6 +15,7 @@ short-description: Ce que nous faisons et comment aider
 - de la communication
 
 **Merci de vous rapprocher des modérateurs du Slack pour plus de précision**
+
 Pour obtenir la liste des modérateurs, vous pouvez demander à notre Robot Community, grâce à la commande `/community` (à taper dans votre barre de message)
 
 
