@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "J'ai un profil autre"
+title: "J'ai un autre profil"
 date: 2020-03-15 08:44:38 -0400
 category: comment-contribuer
-author: mac
+author: admin
 short-description: Ce que nous faisons et comment aider
 ---
 

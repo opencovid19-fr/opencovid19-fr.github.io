@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Les données"
+title: "Covid-data"
 date: 2020-03-19 08:44:38 -0400
-category: covid-data-fr
-author: mac
-short-description: Ce qui est disponible
+category: collect
+author: Raphael Lasseri
+short-description: Partage de soignants, lits, respirateurs, matériel de protection entre hopitaux publics et privés
 ---
 
 -----

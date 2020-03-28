@@ -2,9 +2,9 @@
 layout: post
 title: "Pharm'Help"
 date: 2020-03-24 21:44:38 -0400
-category: pharm-help
-author: mac
-short-description: 
+category: networking
+author: Sébastien Cossin
+short-description: Un site créé pour mettre en contact les pharmacies et les professionnels de santé
 ---
 
 -----
@@ -18,7 +18,7 @@ short-description:
 **Livrable :** https://www.pharmhelp.anepf.org/
 
 **Organisation du projet :**
-sur GIT HUB : https://github.com/scossin/PharmHelpCarto
+- Github : https://github.com/scossin/PharmHelpCarto
 
 
 

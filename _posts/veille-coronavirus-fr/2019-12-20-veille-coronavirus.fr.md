@@ -2,16 +2,16 @@
 layout: post
 title: "veille-coronavirus.fr"
 date: 2020-03-17 08:44:38 -0400
-category: veille-coronavirus-fr
-author: admin
-short-description: 
+category: dataviz.fr
+author: Jérôme Desboeuf
+short-description: Tableau de bord de suivi de l'épidémie de nouveau coronavirus
 ---
 
 # Tableau de bord de suivi de l'épidémie de nouveau coronavirus
 
 Cet outil contributif tente de proposer une vision [consolidée](https://github.com/opencovid19-fr/data) des données officielles disponibles.
 
-**Product Owner** : Jérôme Desboeuf ?
+**Product Owner** : Jérôme Desboeuf
 
 **Objectif** : fournir au jour à jour une base de données fiable des cas avec un maillage régional et départemental
 

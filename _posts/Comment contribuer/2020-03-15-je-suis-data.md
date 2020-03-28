@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Je suis data *"
+title: "Je suis dans les data"
 date: 2020-03-15 08:44:38 -0400
 category: comment-contribuer
-author: mac
+author: admin
 short-description: Ce que nous faisons et comment aider
 ---
 
