@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "veille-coronavirus.fr"
-date: 2020-03-13 08:44:38 -0400
-category: dashboard-fr
+date: 2020-03-17 08:44:38 -0400
+category: veille-coronavirus-fr
 author: admin
-short-description: www.veille-coronavirus.fr
+short-description: 
 ---
 
 # Tableau de bord de suivi de l'épidémie de nouveau coronavirus

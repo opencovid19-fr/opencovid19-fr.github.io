@@ -2,18 +2,18 @@
 
 
 
-dashboard-fr:
-  name: Dashboard France
-  description: description
-dashboard-world:
-  name: Dashboard Monde
+veille-coronavirus-fr:
+  name: veille-coronavirus.fr
+  description: Tableau de bord de suivi de l’épidémie de nouveau coronavirus
+votre-projet:
+  name: Votre projet {ICI}
   description: description
 pharm-help:
   name: Pharm'Help
   description: description
-recolte-donnees:
-  name: Covid-Data
-  description: Nous avons toujours besoin d'un coup de main pour récolter et vérifier les données récoltées
+covid-data-fr:
+  name: covid-data.fr
+  description:
 comment-contribuer:
   name: Comment contribuer ?
   description: Bienvenue, voici quelques informations
