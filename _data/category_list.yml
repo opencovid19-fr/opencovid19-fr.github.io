@@ -2,15 +2,18 @@
 
 
 
-dashboard:
+veille-coronavirus-fr:
   name: veille-coronavirus.fr
-  description: Ce qu'il faut savoir sur veille-coronavirus.fr
-projets-en-cours:
-  name: Projets en cours
+  description: Tableau de bord de suivi de l’épidémie de nouveau coronavirus
+votre-projet:
+  name: Votre projet {ICI}
+  description: description
+pharm-help:
+  name: Pharm'Help
+  description: description
+covid-data-fr:
+  name: covid-data.fr
   description:
-recolte-donnees:
-  name: Données covid-19 / France
-  description: Nous avons toujours besoin d'un coup de main pour récolter et vérifier les données récoltées
 comment-contribuer:
   name: Comment contribuer ?
   description: Bienvenue, voici quelques informations

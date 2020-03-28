@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -30,17 +30,16 @@ use_authors: false #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: Data Against COVID-19 / FR
 header: Data Against COVID-19 / FR
-subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Data against Covid est une <font color=red>organisation informelle issue de la société civile</font> avec des développeurs, des data scientist, des ingénieurs, des chefs de projets et talents <font color=red>de tous corps de métiers</font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées sur l'épidémie de covid 19 et proposer des outils de visualisation.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br> Favoriser une information claire, précise et accessible pour tous sur la propagation du virus. </br></br> <font color="#81BEF7">Comment Participer ?</font> </br></br> Une fois connecté sur le slack de l'initiative, obtenez de l'aide à tout moment en tapant la commande /community dans votre barre de message.
 meta_image: odin-meta.png
 
 # Social Links
 twitter_username: opencovid19
-facebook_page: 
+facebook_page: https://www.facebook.com/Data-Against-Covid-19-100330834953672/
 github_username: opencovid19-fr
-email: 
-linkedin_page:
-instagram_username: 
+email:
+linkedin_page: https://www.linkedin.com/company/data-against-covid-19/
+instagram_username:
 
 
 # Navivation
@@ -48,24 +47,23 @@ nav_item_one: Github
 nav_item_one_link: https://github.com/opencovid19-fr
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/opencovid19
+nav_item_two_link: https://twitter.com/data_covid
 
-nav_item_three: #
-nav_item_three_link: #
+nav_item_three: LinkedIn
+nav_item_three_link: https://www.linkedin.com/company/data-against-covid-19/
+
+nav_item_four: Facebook
+nav_item_four_link: https://www.facebook.com/Data-Against-Covid-19-100330834953672/
 
 nav_button: Return to Home
-nav_button_link: https://opencovid19-fr.github.io
+nav_button_link:
 
 # More Help
-help_one_title: Data Against COVID-19 / FR Bugs
-help_one_content: If you find any bugs or problems, please open an issue over on Github.
+help_one_title: Signaler des bugs / Contribuer au site
+help_one_content: #If you find any bugs or problems, please open an issue over on Github.
 help_one_button: Github
 help_one_link: https://github.com/opencovid19-fr
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet us your suggestions.
-help_two_button: Twitter
-help_two_link: https://twitter.com/opencovid19
 
 # Build settings
 theme: minima

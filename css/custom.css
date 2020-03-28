@@ -1,0 +1,67 @@
+body {
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+/* ############ Navbar*/
+nav.container.grid-xl.navbar{
+    min-width: 100vw;
+    padding: 10px 15px;
+    position: sticky;
+    top: 0;
+    background-color: #131313;
+    z-index: 1000;
+}
+/* ###### Navbar logo*/
+a.logo img {
+    height: 70px;
+}
+a.logo {
+    width: auto !important;
+}
+p.m-0.ml-2.text-light.d-inline {
+    font-family: 'share tech mono';
+    max-width: 180px;
+}
+/* ###### Navbar Button*/
+html body div.header-bg div.container-full div.header nav.container.grid-xl.navbar ul.main-nav li a.btn.btn-lg.btn-outline.py-2 {
+    display: none;
+}
+
+/* ############ Général Layout*/
+
+/* ####### Pages title*/
+
+h2.text-light.text-bold {
+    margin-top: 4vw;
+}
+
+/* ############ Index Page*/
+
+.header{
+    background-image: url('https://ucdde4c676edb296c5d04e93ecd4.previews.dropboxusercontent.com/p/thumb/AAspDLWYNBjbpFhYjMl3ENz_F4N2JMRY1klE1k9cY4y8c8Sq7RCcVAp8K73LXjqCzjhZsq6yf1yQkVZeZKAZ2Y-4lDhpDo9JtDmeZNE5FryQNZs6iAxnDTCTRiJl_EeAXYc_mmKcN9v7fkb5fXtQZ-hYlLepX6f0XdTywkaPiaSpBDg0JqIg0kmZb2VX0-QnBD2KlJT9e7So4e7y1hbvak3l0Ie6e1GJk2FionGEtNz7HS2TSTJMKtp-1SV3A_ljfKP4mU-VHNoSe0pVq0ARfoUX6pgG5UB25KKs2p436Gu7UE3LtcQ_gJMpEpzmDZo2Ny1_wfsBLFNI64vtH6fv4q9a5QetJB7FB0uPlh6WY6WaWJjwJRjMa_4hpDZJKLZokVwSKLX7-ipL7crBWN7Nkw4v/p.png?size=1600x1200&size_mode=3');
+    background-size: cover;
+}
+.landing-header h1.super-h1{
+    font-size: calc(30px + 2vw);
+    margin: 0 0 6vh !important;
+}
+.index-questions {
+    font-size: calc(19px + 0.6vw);
+    text-transform: uppercase;
+    line-height: 2em;
+    color: #333;
+}
+.subheader{
+    font-family: 'muli';
+    font-size: calc(15px + 0.6vw);
+    background-color: #fffe;
+    box-shadow: 0 0 30 #0002;
+    border-radius: 7px;
+    padding: 2.2vw 4vw 3.6vw;
+}
+.subheader hr{
+    margin-bottom: 22px;
+}
+.landing-header {
+    padding-top: 60px !important;
+}
