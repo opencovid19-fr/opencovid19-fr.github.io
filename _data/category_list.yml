@@ -5,9 +5,6 @@
 dataviz-fr:
   name: veille-coronavirus.fr
   description: Tableau de bord de suivi de l’épidémie de nouveau coronavirus
-votre-projet:
-  name: Votre projet {ICI}
-  description: description
 networking:
   name: Pharm'Help
   description: description
