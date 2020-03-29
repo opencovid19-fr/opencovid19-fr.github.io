@@ -15,7 +15,7 @@ Cet outil contributif tente de proposer une vision [consolidée](https://github.
 
 **Objectif** : fournir au jour à jour une base de données fiable des cas avec un maillage régional et départemental
 
-**Livrable** : http://veille-coronavirus.fr/
+**Livrable** : [http://veille-coronavirus.fr/](http://veille-coronavirus.fr/)
 
 **Organisation du projet :**
 - sur GITHUB https://github.com/opencovid19-fr

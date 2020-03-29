@@ -10,6 +10,15 @@ short-description: Votre projet {ICI}
 -----
 
 
-**More info coming soon**
+# Phrase d'accroche décrivant le projet (titre)
+
+**Product Owner :** Nom et prénom du porteur de projet
+
+**Objectif :** phrase unique qui décrit le but exact du projet
+
+**Livrable :** [https://lien-vers-le-site](https://lien-vers-le-site)
+
+**Organisation du projet :**
+- Github : https://github.com/nom-du-repo
 
 
