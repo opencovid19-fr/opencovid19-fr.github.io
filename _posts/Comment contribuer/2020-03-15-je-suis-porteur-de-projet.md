@@ -18,3 +18,5 @@ Voici quelques étapes visant à faciliter le lancement d'un nouveau projet et l
 5. Copiez et remplissez le message d'accueil type, postez le sur votre nouveau canal et épinglez le pour que les nouveaux arrivant le retrouve facilement.
 6. Parlez de votre projet dans le canal du(des) work packages auquel il se rattache.
 7. Recrutez directement dans #reserve-tech #reserve-chefs-projets #reserve-autre"
+
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)

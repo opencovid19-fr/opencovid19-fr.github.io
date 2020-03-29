@@ -26,3 +26,4 @@ Vous participerez à optimiser notre communication et à chapeauter les équipes
 Des projets et missions y sont presentées.
 Explorez également les canaux de 'work package': ce sont nos thématiques principales, les canaux commencent tous par #wp....
 
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)

@@ -26,4 +26,4 @@ Explorez également les canaux de 'work package': ce sont nos thématiques princ
 Si vous ne l'avez pas fait, veuillez remplir notre formulaire. Ces informations sont accessibles au chefs de projet qui vous contecteront selon leur besoin.
 Vous pouvez aussi explorer la section suivante qui vous propose d'autre méthodes de proposer votre aide:
 
-
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
