@@ -1,0 +1,30 @@
+I"<h1 id="tableau-de-bord-de-suivi-de-lépidémie-de-nouveau-coronavirus">Tableau de bord de suivi de l’épidémie de nouveau coronavirus</h1>
+
+<p>Cet outil contributif tente de proposer une vision <a href="https://github.com/opencovid19-fr/data">consolidée</a> des données officielles disponibles.</p>
+
+<p><strong>Product Owner</strong> : Jérôme Desboeuf</p>
+
+<p><strong>Objectif</strong> : fournir au jour à jour une base de données fiable des cas avec un maillage régional et départemental</p>
+
+<p><strong>Livrable</strong> : <a href="http://veille-coronavirus.fr/">http://veille-coronavirus.fr/</a></p>
+
+<p><strong>Organisation du projet :</strong></p>
+<ul>
+  <li>sur GITHUB https://github.com/opencovid19-fr</li>
+  <li>sur les canaux slack :
+    <ul>
+      <li>wp-dat-data-collection-covid19-fr</li>
+      <li>wp-viz-visualisation-data</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Outils utilisés</strong></p>
+<ul>
+  <li>Node.js</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>Mapbox GL JS</li>
+  <li>Chart.js</li>
+</ul>
+:ET
