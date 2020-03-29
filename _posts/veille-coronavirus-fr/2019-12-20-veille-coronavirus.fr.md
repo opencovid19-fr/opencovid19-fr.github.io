@@ -2,7 +2,7 @@
 layout: post
 title: "veille-coronavirus.fr"
 date: 2020-03-17 08:44:38 -0400
-category: dataviz.fr
+category: dataviz-fr
 author: Jérôme Desboeuf
 short-description: Tableau de bord de suivi de l'épidémie de nouveau coronavirus
 ---

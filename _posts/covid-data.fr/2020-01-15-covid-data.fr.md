@@ -2,7 +2,7 @@
 layout: post
 title: "Covid-data"
 date: 2020-03-19 08:44:38 -0400
-category: collect, documentation
+category: collect-documentation
 author: Raphael Lasseri, Caroline Allix-Béguec
 short-description: Partage de soignants, lits, respirateurs, matériel de protection entre hopitaux publics et privés
 ---

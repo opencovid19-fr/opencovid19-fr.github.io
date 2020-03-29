@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-28T13:47:00+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Against COVID-19 / FR</title><subtitle>Initiative Data Against COVID-19 / FR</subtitle><entry><title type="html">Votre projet {ICI}</title><link href="http://localhost:4000/votre-projet/projets-en-cours" rel="alternate" type="text/html" title="Votre projet {ICI}" /><published>2020-03-25T02:44:38+01:00</published><updated>2020-03-28T12:45:28+01:00</updated><id>http://localhost:4000/votre-projet/projets-en-cours</id><content type="html" xml:base="http://localhost:4000/votre-projet/projets-en-cours">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-28T23:56:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Against COVID-19 / FR</title><subtitle>Initiative Data Against COVID-19 / FR</subtitle><entry><title type="html">Votre projet {ICI}</title><link href="http://localhost:4000/votre-projet/url-du-projet" rel="alternate" type="text/html" title="Votre projet {ICI}" /><published>2020-03-27T02:44:38+01:00</published><updated>2020-03-28T23:52:16+01:00</updated><id>http://localhost:4000/votre-projet/url-du-projet</id><content type="html" xml:base="http://localhost:4000/votre-projet/url-du-projet">&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;More info coming soon&lt;/strong&gt;&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="votre-projet" /><summary type="html"></summary></entry><entry><title type="html">Pharm’Help</title><link href="http://localhost:4000/pharm-help/intro" rel="alternate" type="text/html" title="Pharm'Help" /><published>2020-03-25T02:44:38+01:00</published><updated>2020-03-28T12:45:28+01:00</updated><id>http://localhost:4000/pharm-help/intro</id><content type="html" xml:base="http://localhost:4000/pharm-help/intro">&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;More info coming soon&lt;/strong&gt;&lt;/p&gt;</content><author><name>admin</name></author><category term="votre-projet" /><summary type="html"></summary></entry><entry><title type="html">Pharm’Help</title><link href="http://localhost:4000/networking/pharmhelp.anepf.org" rel="alternate" type="text/html" title="Pharm'Help" /><published>2020-03-25T02:44:38+01:00</published><updated>2020-03-28T23:52:16+01:00</updated><id>http://localhost:4000/networking/pharmhelp.anepf.org</id><content type="html" xml:base="http://localhost:4000/networking/pharmhelp.anepf.org">&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;More info coming soon&lt;/strong&gt;&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="pharm-help" /><summary type="html"></summary></entry><entry><title type="html">Les données</title><link href="http://localhost:4000/covid-data-fr/les-donnees" rel="alternate" type="text/html" title="Les données" /><published>2020-03-19T13:44:38+01:00</published><updated>2020-03-28T12:45:28+01:00</updated><id>http://localhost:4000/covid-data-fr/les-donnees</id><content type="html" xml:base="http://localhost:4000/covid-data-fr/les-donnees">&lt;hr /&gt;
+&lt;h1 id=&quot;un-site-créé-pour-mettre-en-contact-les-pharmacies-et-les-professionnels-de-santé&quot;&gt;Un site créé pour mettre en contact les pharmacies et les professionnels de santé&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Owner :&lt;/strong&gt; Sébastien Cossin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectif :&lt;/strong&gt; faciliter l’entraide entre les professionnels de santé en pharmacie&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Livrable :&lt;/strong&gt; https://www.pharmhelp.anepf.org/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organisation du projet :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Github : https://github.com/scossin/PharmHelpCarto&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Sébastien Cossin</name></author><category term="networking" /><summary type="html"></summary></entry><entry><title type="html">Covid-data</title><link href="http://localhost:4000/collect-documentation/covid-data.fr" rel="alternate" type="text/html" title="Covid-data" /><published>2020-03-19T13:44:38+01:00</published><updated>2020-03-28T23:52:16+01:00</updated><id>http://localhost:4000/collect-documentation/covid-data.fr</id><content type="html" xml:base="http://localhost:4000/collect-documentation/covid-data.fr">&lt;hr /&gt;
 
 &lt;h1 id=&quot;partage-de-soignants-lits-respirateurs-matériel-de-protection-entre-hopitaux-publics-et-privés&quot;&gt;Partage de soignants, lits, respirateurs, matériel de protection entre hopitaux publics et privés&lt;/h1&gt;
 
@@ -14,18 +25,50 @@
 
 &lt;p&gt;&lt;strong&gt;Livrable&lt;/strong&gt; : http://covid-data.fr/&lt;/p&gt;
 
-&lt;p&gt;**Organisation du projet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organisation du projet&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;sur les canaux slack :
     &lt;ul&gt;
       &lt;li&gt;wp-dat-collecte-donnees-rea&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Mac Reddin</name></author><category term="covid-data-fr" /><summary type="html"></summary></entry><entry><title type="html">veille-coronavirus.fr</title><link href="http://localhost:4000/veille-coronavirus-fr/creating-a-category" rel="alternate" type="text/html" title="veille-coronavirus.fr" /><published>2020-03-17T13:44:38+01:00</published><updated>2020-03-28T12:45:28+01:00</updated><id>http://localhost:4000/veille-coronavirus-fr/creating-a-category</id><content type="html" xml:base="http://localhost:4000/veille-coronavirus-fr/creating-a-category">&lt;h1 id=&quot;tableau-de-bord-de-suivi-de-lépidémie-de-nouveau-coronavirus&quot;&gt;Tableau de bord de suivi de l’épidémie de nouveau coronavirus&lt;/h1&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;protocoles-de-soins-et-recommandations&quot;&gt;Protocoles de soins et recommandations&lt;/h1&gt;
+
+&lt;p&gt;Base documentaire à l’attention des professionnels de santé rassemblant les recommandations des sociétés savantes et les guides méthodologiques des autorités de santé&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Owner&lt;/strong&gt; : Caroline Allix-Béguec&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectif&lt;/strong&gt; : fournir de la documentation élaborée par les différents professionnels de santé sur le Covid 19&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Livrable&lt;/strong&gt; : http://covid-data.fr/&lt;/p&gt;</content><author><name>Raphael Lasseri, Caroline Allix-Béguec</name></author><category term="collect-documentation" /><summary type="html"></summary></entry><entry><title type="html">tiny.cc_covidfr</title><link href="http://localhost:4000/dataviz/tiny.cc_covidfr" rel="alternate" type="text/html" title="tiny.cc_covidfr" /><published>2020-03-19T13:44:38+01:00</published><updated>2020-03-28T22:31:09+01:00</updated><id>http://localhost:4000/dataviz/tiny.cc_covidfr</id><content type="html" xml:base="http://localhost:4000/dataviz/tiny.cc_covidfr">&lt;hr /&gt;
+
+&lt;h1 id=&quot;tableau-de-bord-monde--région--département-pour-suivre-lévolution-de-la-maladie-covid-19&quot;&gt;Tableau de bord Monde / Région / Département pour suivre l’évolution de la maladie Covid-19&lt;/h1&gt;
+
+&lt;p&gt;Visualisation réalisée à partir des remontées de données SPF, ARS et les collectes réalisées par les membres du slack Data Against Covid19.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Owner&lt;/strong&gt; : Jérôme Hugueny&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectif&lt;/strong&gt; : fournir une base de données monde, département, région&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Livrable&lt;/strong&gt; : https://tiny.cc/covidfr&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organisation du projet :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Microsoft Power Bi&lt;/li&gt;
+  &lt;li&gt;Github : https://github.com/opencovid19-fr/data&lt;/li&gt;
+  &lt;li&gt;Canaux slack :
+    &lt;ul&gt;
+      &lt;li&gt;wp-dat-data-collection-covid19-fr&lt;/li&gt;
+      &lt;li&gt;wp-viz-visualisation-data&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jérôme Hugueny</name></author><category term="dataviz" /><summary type="html"></summary></entry><entry><title type="html">veille-coronavirus.fr</title><link href="http://localhost:4000/dataviz-fr/veille-coronavirus.fr" rel="alternate" type="text/html" title="veille-coronavirus.fr" /><published>2020-03-17T13:44:38+01:00</published><updated>2020-03-28T23:52:16+01:00</updated><id>http://localhost:4000/dataviz-fr/veille-coronavirus.fr</id><content type="html" xml:base="http://localhost:4000/dataviz-fr/veille-coronavirus.fr">&lt;h1 id=&quot;tableau-de-bord-de-suivi-de-lépidémie-de-nouveau-coronavirus&quot;&gt;Tableau de bord de suivi de l’épidémie de nouveau coronavirus&lt;/h1&gt;
 
 &lt;p&gt;Cet outil contributif tente de proposer une vision &lt;a href=&quot;https://github.com/opencovid19-fr/data&quot;&gt;consolidée&lt;/a&gt; des données officielles disponibles.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Product Owner&lt;/strong&gt; : Jérôme Desboeuf ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Product Owner&lt;/strong&gt; : Jérôme Desboeuf&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Objectif&lt;/strong&gt; : fournir au jour à jour une base de données fiable des cas avec un maillage régional et départemental&lt;/p&gt;
 
@@ -49,19 +92,19 @@
   &lt;li&gt;Next.js&lt;/li&gt;
   &lt;li&gt;Mapbox GL JS&lt;/li&gt;
   &lt;li&gt;Chart.js&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>admin</name></author><category term="veille-coronavirus-fr" /><summary type="html">Tableau de bord de suivi de l’épidémie de nouveau coronavirus</summary></entry><entry><title type="html">Introduction</title><link href="http://localhost:4000/comment-contribuer/introduction" rel="alternate" type="text/html" title="Introduction" /><published>2020-03-16T13:44:38+01:00</published><updated>2020-03-28T12:45:28+01:00</updated><id>http://localhost:4000/comment-contribuer/introduction</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/introduction">&lt;hr /&gt;
+&lt;/ul&gt;</content><author><name>Jérôme Desboeuf</name></author><category term="dataviz-fr" /><summary type="html">Tableau de bord de suivi de l’épidémie de nouveau coronavirus</summary></entry><entry><title type="html">Introduction</title><link href="http://localhost:4000/comment-contribuer/introduction" rel="alternate" type="text/html" title="Introduction" /><published>2020-03-16T13:44:38+01:00</published><updated>2020-03-28T22:37:26+01:00</updated><id>http://localhost:4000/comment-contribuer/introduction</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/introduction">&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Merci d’avoir ressenti l’envie de contribuer!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Vous pouvez aider à tous les niveaux&lt;/strong&gt;, voici quelques manières de participer:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Vous pouvez vous engager dans la collecte de données&lt;/li&gt;
   &lt;li&gt;Vous pouvez lancer un nouveau projet exploitant les données&lt;/li&gt;
-  &lt;li&gt;Vous pouvez coopérer avec des médecins et des datascientists sur des projets de visualisation et de prédictions&lt;/li&gt;
+  &lt;li&gt;Vous pouvez coopérer avec des médecins et des datascientists sur des projets de visualisation et de prédiction&lt;/li&gt;
   &lt;li&gt;Vous pouvez participer à l’organisation&lt;/li&gt;
   &lt;li&gt;Vous pouvez partager ce projet auprès de vos amis afin de faire venir de nouveaux contributeurs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pour le reste, à vous d’inventer la forme que prendra votre contribution!&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html">Merci d’avoir ressenti l’envie de contribuer!</summary></entry><entry><title type="html">J’ai un profil autre</title><link href="http://localhost:4000/comment-contribuer/je-suis-autre" rel="alternate" type="text/html" title="J'ai un profil autre" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T08:39:15+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-autre</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-autre">&lt;hr /&gt;
+&lt;p&gt;Pour le reste, à vous d’inventer la forme que prendra votre contribution!&lt;/p&gt;</content><author><name>admin</name></author><category term="comment-contribuer" /><summary type="html">Merci d’avoir ressenti l’envie de contribuer!</summary></entry><entry><title type="html">J’ai un autre profil</title><link href="http://localhost:4000/comment-contribuer/je-suis-autre" rel="alternate" type="text/html" title="J'ai un autre profil" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T22:37:26+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-autre</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-autre">&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Nous recherchons des volontaires motivés pour assurer :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -72,50 +115,50 @@
 
 &lt;p&gt;&lt;strong&gt;Merci de vous rapprocher des modérateurs du Slack pour plus de précision&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Pour obtenir la liste des modérateurs, vous pouvez demander à notre bot &lt;strong&gt;Community&lt;/strong&gt;, grâce à la commande &lt;code class=&quot;highlighter-rouge&quot;&gt;/community&lt;/code&gt; (à taper dans votre barre de message)&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis chef de projet</title><link href="http://localhost:4000/comment-contribuer/je-suis-chef-de-projet" rel="alternate" type="text/html" title="Je suis chef de projet" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T08:47:57+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-chef-de-projet</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-chef-de-projet">&lt;hr /&gt;
+&lt;p&gt;Pour obtenir la liste des modérateurs, vous pouvez demander à notre bot &lt;strong&gt;Community&lt;/strong&gt;, grâce à la commande &lt;code class=&quot;highlighter-rouge&quot;&gt;/community&lt;/code&gt; (à taper dans votre barre de message)&lt;/p&gt;</content><author><name>admin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis chef de projet</title><link href="http://localhost:4000/comment-contribuer/je-suis-chef-de-projet" rel="alternate" type="text/html" title="Je suis chef de projet" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T22:37:26+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-chef-de-projet</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-chef-de-projet">&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Nous avons besoin de vous!&lt;/strong&gt; Vous êtes à l’aise avec les processus agiles, êtes AMOA, MOA, MOE, ou maitrisez des artefacts et outils de gestion de projet (tels que ganttchart, kanban, backlogs…) : ces compétences sont nécessaires à la fabrication des projets qui se contruisent içi!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Vous êtes un chef de projet expérimenté avec plusieurs années d’expérience?&lt;/strong&gt; Alors vous pourrez venir en renfort de chefs de projets junior auxquels vous pourrez prodiguer des conseils et recommendations. Offrez cette chance à leurs projets!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous êtes un chef de projet expérimenté avec plusieurs années d’expérience?&lt;/strong&gt; Alors vous pourrez venir en renfort de chefs de projets junior auxquels vous pourrez prodiguer des conseils et recommandations. Offrez cette chance à leurs projets!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Pour contribuer activement, voici là procédure à suivre:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pour contribuer activement, voici la procédure à suivre:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Remplissez &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform&quot;&gt;ce formulaire&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Connectez vous au Workspace Slack &lt;a href=&quot;https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA&quot;&gt;Data Against Covid-19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Connectez-vous au Workspace Slack &lt;a href=&quot;https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA&quot;&gt;Data Against Covid-19&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Présentez-vous dans le canal &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000&quot;&gt;#intro&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Gardez un oeil sur les canaux &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/user_profile/UV7BB6V5H&quot;&gt;#reserve-tech&lt;/a&gt;, &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010GHUTNJZ/user_profile/UV7BB6V5H&quot;&gt;#reserve-autre&lt;/a&gt; et &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010GHURJJ1/user_profile/UV7BB6V5H&quot;&gt;#reserve-chef-de-projet&lt;/a&gt; ainsi que la rubrique &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C0104CJLN9F/user_profile/UV7BB6V5H&quot;&gt;#nouveaux-projets&lt;/a&gt;
-Des projets et missions y sont presentées.
-Explorez également les canaux de ‘work package’: ce sont nos thématiques principales, les canaux commencent tous par #wp….&lt;/li&gt;
+  &lt;li&gt;Gardez un oeil sur les canaux &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/user_profile/UV7BB6V5H&quot;&gt;#reserve-tech&lt;/a&gt;, &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010GHUTNJZ/user_profile/UV7BB6V5H&quot;&gt;#reserve-autre&lt;/a&gt; et &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010GHURJJ1/user_profile/UV7BB6V5H&quot;&gt;#reserve-chef-de-projet&lt;/a&gt; ainsi que sur la rubrique &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C0104CJLN9F/user_profile/UV7BB6V5H&quot;&gt;#nouveaux-projets&lt;/a&gt;
+Des projets et missions y sont presentés.
+Explorez également les canaux de “work package”, nos thématiques principales. Les noms de ces canaux commencent tous par “#wp….”&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Des outils sont actuellement en train d’être conçus afin de vous permettre d’intéragir avec les projets existants.&lt;/strong&gt; En tant que chefs de projet expérimenté, pour l’instant, rapprochez-vous manuellement de vos juniors en proposant vos services. Nous mettons tout en oeuvre pour améliorer ce matching au plus vite.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Des outils sont actuellement en train d’être conçus afin de vous permettre d’intéragir avec les projets existants.&lt;/strong&gt; En tant que chefs de projet expérimentés, pour l’instant, rapprochez-vous manuellement de vos juniors en proposant vos services. Nous mettons tout en oeuvre pour améliorer ce matching au plus vite.&lt;/p&gt;
 
-&lt;p&gt;Si vous ne l’avez pas fait, veuillez remplir notre formulaire. Ces informations sont accessibles au chefs de projet qui vous contecteront selon leur besoin.
-Vous pouvez aussi explorer la section suivante qui vous propose d’autre méthodes de proposer votre aide:&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis data *</title><link href="http://localhost:4000/comment-contribuer/je-suis-data" rel="alternate" type="text/html" title="Je suis data *" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T09:50:55+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-data</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-data">&lt;hr /&gt;
+&lt;p&gt;Si vous ne l’avez pas fait, veuillez remplir &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform&quot;&gt;notre formulaire&lt;/a&gt;. Ces informations sont accessibles aux chefs de projet juniors qui vous contacteront selon leur besoin.&lt;/p&gt;</content><author><name>admin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis dans les data</title><link href="http://localhost:4000/comment-contribuer/je-suis-data" rel="alternate" type="text/html" title="Je suis dans les data" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T22:37:26+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-data</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-data">&lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;L’objectif&lt;/strong&gt;, c’est de rassembler les donnés mises à disposition par les organismes officiels sur le Coronavirus : Ministère des Solidarités et de la Santé, Santé Publique France, les différentes Agences Régionales de Santé des régions françaises, etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L’objectif&lt;/strong&gt;, c’est de rassembler les données mises à disposition par les organismes officiels sur le Coronavirus : Ministère des Solidarités et de la Santé, Santé Publique France (SPF), les différentes Agences Régionales de Santé des régions françaises, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pour collecter des données, vous aurez besoin d’un compte Github.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Sur l’utilisation de GitHub : https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y/p1585342152122100&lt;/li&gt;
   &lt;li&gt;Sur la collecte de données  : https://github.com/opencovid19-fr/data/blob/master/README.md&lt;/li&gt;
   &lt;li&gt;Vous pouvez aussi consulter le &lt;a href=&quot;https://github.com/opencovid19-fr/comment-contribuer&quot;&gt;guide de contribution pour l’ensemble des projets de collecte de données&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis designer</title><link href="http://localhost:4000/comment-contribuer/je-suis-designer" rel="alternate" type="text/html" title="Je suis designer" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-26T22:29:24+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-designer</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-designer">&lt;hr /&gt;
+&lt;/ul&gt;</content><author><name>admin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis designer</title><link href="http://localhost:4000/comment-contribuer/je-suis-designer" rel="alternate" type="text/html" title="Je suis designer" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T23:26:19+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-designer</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-designer">&lt;hr /&gt;
 
-&lt;p&gt;Odin is the Norse god of knowledge. He’ll help deliver knowledge to your customers with his ravens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nous avons besoin de vous!&lt;/strong&gt;&lt;br /&gt;
+Vous êtes Graphiste, infographiste, designer UI/UX, motion designer, ou vous maîtrisez des outils de création graphique (Photoshop, Illustrator, Indesign, After effects, Affinity suite…)?&lt;br /&gt;
+Nous avons besoin de vos compétences !&lt;br /&gt;
+Vous serez amenés à créer des identités visuelles, des supports de communication, des visuels de réseaux sociaux, de l’UI/UX et plus encore. Toutes compétences en développement front-end sont aussi bienvenues.&lt;/p&gt;
 
-&lt;p&gt;Odin was built out of a frustration with various knowledge base and support software solutions and a desire to build something for the sake of building something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous êtes un directeur de communication/artistique expérimenté ?&lt;/strong&gt;&lt;br /&gt;
+Vous pouvez nous aider à organiser les équipes et la communication de nos projet.
+Vous participerez à optimiser notre communication et à chapeauter les équipes de création.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;More info coming soon&lt;/strong&gt;&lt;/p&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry><entry><title type="html">Je suis porteur de projet</title><link href="http://localhost:4000/comment-contribuer/je-suis-porteur-de-projet" rel="alternate" type="text/html" title="Je suis porteur de projet" /><published>2020-03-15T13:44:38+01:00</published><updated>2020-03-28T09:12:31+01:00</updated><id>http://localhost:4000/comment-contribuer/je-suis-porteur-de-projet</id><content type="html" xml:base="http://localhost:4000/comment-contribuer/je-suis-porteur-de-projet">&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Si c’est un projet de data, lié à la maladie Covid-19, alors vous êtes au bon endroit.&lt;/strong&gt;
-Voici quelques étapes visant à faciliter le lancement d’un nouveau projet et le recrutement de membres:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pour contribuer activement, voici là procédure à suivre:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Avant de commencer, &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1UVFem7ICyRmX01QV0xUv4lCS4_k_sDS0OaKrZjG_dtw/edit?usp=sharing&quot;&gt;vérifiez la liste des projets et thématiques existantes&lt;/a&gt; (si votre projet n’existe pas ajoutez le a la liste.)&lt;/li&gt;
-  &lt;li&gt;Identifiez le (ou les) thématiques (work package WP) auquel le projet se rattache. Les WP sont nos thématiques principales, les canaux commencent tous par #wp….&lt;/li&gt;
-  &lt;li&gt;Créez un canal Slack dédié à votre projet (le nom du canal doit être &lt;code class=&quot;highlighter-rouge&quot;&gt;prj-###-&amp;lt;nom du projet&amp;gt;&lt;/code&gt; &quot;###&quot; est remplace par l’identifiant du work package) (e.g. pml pour #wp-pml-prediction-ml)&lt;/li&gt;
-  &lt;li&gt;Ajoutez une description a votre projet&lt;/li&gt;
-  &lt;li&gt;Copiez et remplissez le message d’accueil type, postez le sur votre nouveau canal et épinglez le pour que les nouveaux arrivant le retrouve facilement.&lt;/li&gt;
-  &lt;li&gt;Parlez de votre projet dans le canal du(des) work packages auquel il se rattache.&lt;/li&gt;
-  &lt;li&gt;Recrutez directement dans #reserve-tech #reserve-chefs-projets #reserve-autre”&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Mac Reddin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry></feed>
+  &lt;li&gt;Remplissez &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform&quot;&gt;ce formulaire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Connectez vous au Workspace Slack &lt;a href=&quot;https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA&quot;&gt;Data Against Covid-19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Présentez-vous dans le canal &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000&quot;&gt;#intro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gardez un oeil sur les canaux &lt;a href=&quot;https://dataagainstcovid-19.slack.com/archives/CV5P1TH7C&quot;&gt;#wp-com-communication-et-médias&lt;/a&gt;, &lt;a href=&quot;https://dataagainstcovid-19.slack.com/archives/C010UEYQE8M&quot;&gt;#prj-com-réseaux-sociaux&lt;/a&gt; et &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C010GHURJJ1/user_profile/UV7BB6V5H&quot;&gt;#reserve-chef-de-projet&lt;/a&gt; ainsi que la rubrique &lt;a href=&quot;https://app.slack.com/client/TUQTGE7FU/C0104CJLN9F/user_profile/UV7BB6V5H&quot;&gt;#nouveaux-projets&lt;/a&gt;
+Des projets et missions y sont presentées.
+Explorez également les canaux de ‘work package’: ce sont nos thématiques principales, les canaux commencent tous par #wp….&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>admin</name></author><category term="comment-contribuer" /><summary type="html"></summary></entry></feed>
