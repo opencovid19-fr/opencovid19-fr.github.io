@@ -15,7 +15,7 @@ short-description: Un site créé pour mettre en contact les pharmacies et les p
 
 **Objectif :** faciliter l’entraide entre les professionnels de santé en pharmacie 
 
-**Livrable :** https://www.pharmhelp.anepf.org/
+**Livrable :** [https://www.pharmhelp.anepf.org/](https://www.pharmhelp.anepf.org/)
 
 **Organisation du projet :**
 - Github : https://github.com/scossin/PharmHelpCarto

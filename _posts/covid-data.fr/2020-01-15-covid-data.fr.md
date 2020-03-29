@@ -17,7 +17,7 @@ Nous sommes une équipe de docteurs en sciences, spécialisés en intelligence a
 
 **Objectif** : renseigner et partager l'état des ressources humaines et matérielles dans un hopital
 
-**Livrable** : http://covid-data.fr/
+**Livrable** : [http://covid-data.fr/](http://covid-data.fr/)
 
 **Organisation du projet** 
 - sur les canaux slack : 
