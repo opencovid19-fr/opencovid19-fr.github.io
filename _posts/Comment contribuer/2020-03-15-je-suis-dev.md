@@ -30,4 +30,5 @@ Il y a actuellement beaucoup de projets et leur nombre ne cesse de s'accroître.
 3. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
 4. Rejoignez en priorité le canal [#Reserve-tech](https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/thread/CV3M7RE8Y-1585336854.107000) et surveillez l'apparition de nouvelles missions
 5. Surveillez les canaux nommés prj-\*\*\*, ces projets ont probablement besoin de vous
-
+  
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)

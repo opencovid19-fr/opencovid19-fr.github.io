@@ -19,3 +19,4 @@ short-description: Ce que nous faisons et comment aider
 
 Pour le reste, à vous d'inventer la forme que prendra votre contribution!
 
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
