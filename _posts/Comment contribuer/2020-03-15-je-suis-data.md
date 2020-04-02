@@ -9,7 +9,7 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-[**INFORMATION IMPORTANTE** : La collecte des données à la main car SPF a mis ses données disponibles en libre accès sur data.gouv]
+[**INFORMATION IMPORTANTE** : La collecte des données à la main est désormais arrêtée, car SPF a mis ses données disponibles en libre accès sur data.gouv]
 
 <s>
 **L'objectif**, c'est de rassembler les données mises à disposition par les organismes officiels sur le Coronavirus : Ministère des Solidarités et de la Santé, Santé Publique France (SPF), les différentes Agences Régionales de Santé des régions françaises, etc.
