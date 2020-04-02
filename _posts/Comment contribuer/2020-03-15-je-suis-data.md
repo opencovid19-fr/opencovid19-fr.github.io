@@ -20,4 +20,10 @@ short-description: Ce que nous faisons et comment aider
 - Sur la collecte de données  : https://github.com/opencovid19-fr/data/blob/master/README.md
 - Vous pouvez aussi consulter le [guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
 
+**N'oubliez pas de rejoindre les canaux principaux de la thématique "collecte des données":**
+- wp-dat-collecte-donnees-rea
+- wp-dat-data-collection-covid19-fr
+- wp-dat-coronastatus
+- et tous autres canal commençant par wp-dat-***
+
 ##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
