@@ -14,17 +14,15 @@ En tant que professionnels de santé, votre rôle est crucial! Si vous avez ét�
 
 **L'objectif**, c'est d'assister les porteurs de projets sur les problématiques médicales.
 
-**Vous pouvez particulièrement aider** les projets qui se contruisent ici, si vous maitrisez les sous-domaines suivants :
+**Vous pouvez particulièrement aider** les projets qui se contruisent ici, si vous maitrisez l'un des sous-domaines suivants :
 - Anapath
 - Anesthésie
 - Cardio-vasculaire
 - Chirurgie Orthopédique
-- Communication
 - Diabeto-endocrino
 - Epidemiologie
 - Ethique
 - Geriatrie
-- Guides-méthodologiques
 - Gynecologie-obstetrique
 - Hepato-gastro-enterologie
 - Hygiene
@@ -43,7 +41,7 @@ En tant que professionnels de santé, votre rôle est crucial! Si vous avez ét�
 - Psychiatrie
 - Soins Palliatifs
 - Urgences-reanimation
-- Ville
+- Médecine de ville
 
 **Pour contribuer activement, voici la procédure à suivre:**
 1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform) en précisant bien votre secteur Santé
