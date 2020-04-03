@@ -9,14 +9,13 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-En tant que data scientist vous savez utiliser des algorithmes et des outils qui peuvent et vont faire la différence contre la maladie Covid19.
+En tant que Data-Scientist vous savez utiliser des algorithmes et des outils qui peuvent **et vont** faire la différence contre la maladie Covid19.
 
 **Vous pouvez particulièrement aider** les projets qui se contruisent ici, si vous maitrisez les outils et algorithmes suivants :
 - Language Python / R
 - Algorithmes : Venez avec vos expertises ! A priori on parle d'apprentissage supervisé et de de modèles multifactoriels et éventuellement de séries temporelles (tout un débat)
 
 **L'objectif à atteindre**
-
 - Estimer la surmortalité due au Covid (au delà des décès comptabilisés)  #wp-pml-deces-covid
 - Estimer le nombre de personnes contaminées (au delà des personnes diagnostiquées)
 - Estimer le taux de mortalité
