@@ -20,33 +20,35 @@ Si vous avez été infecté par Covid19, contribuer à l'initiative Data Against
 **Vous pouvez aider les projets** qui se contruisent ici,
 particulièrement si vous maitrisez les sous-domaines suivants :
 
-- Anapath
+- Anathomo-pathologie
 - Anesthésie
-- Cardio-vasculaire
-- Chirurgie Orthopédique
-- Diabeto-endocrino
+- Cardiologie
+- Communication médicale
+- Diabeto-endocrinologie
 - Epidemiologie
 - Ethique
-- Geriatrie
+- Gériatrie
+- Guides methodologiques
 - Gynecologie-obstetrique
 - Hepato-gastro-enterologie
-- Hygiene
-- Imagerie
-- Intelligence-artificielle
+- Hygiène
+- Imagerie médicale
+- Infectiologie
+- Intelligence artificielle
 - Laboratoire
-- Maladies Infectieuses
-- Medecine Interne
+- Médecine Interne
+- Médecine de Ville
 - Nephrologie
 - Odonto-stomatologie
 - Oncologie
 - Ophtalmologie
-- Orl
-- Pediatrie
+- ORL
+- Orthopédie (chirurgie)
+- Pédiatrie
 - Pneumologie
 - Psychiatrie
-- Soins Palliatifs
+- Soins palliatifs
 - Urgences-reanimation
-- Médecine de ville
 
 **Pour contribuer activement, voici la procédure à suivre:**
 1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform) en précisant bien votre secteur Santé
