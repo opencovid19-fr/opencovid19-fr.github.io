@@ -50,13 +50,21 @@ particulièrement si vous maitrisez les sous-domaines suivants :
 - Soins palliatifs
 - Urgences-reanimation
 
-**Pour contribuer activement, voici la procédure à suivre:**
-1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform) en précisant bien votre secteur Santé
-2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
-3. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
-4. Rejoignez en priorité le canal [#medical-experts](ihttps://app.slack.com/client/TUQTGE7FU/C01056Y0Y8G/thread/C010553SVKN-1585833564.089700)
-5. Surveillez les canaux nommés prj-\*\*\*, ces projets ont probablement besoin de vous
-  
+
+**Pour contribuer activement, voici la procédure à suivre :**
+
+1. Remplissez [ce formulaire][gdoc.form] en précisant votre secteur Santé
+2. Connectez-vous au Slack [Data Against Covid-19][join.slackspace]
+3. Présentez-vous dans le canal [#intro][channel.intro]
+4. Rejoignez en priorité le canal [#medical-experts][channel.med-experts]
+5. Surveillez les canaux nommés `#prj-***`
+   => ces projets ont probablement besoin de vous
 
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19][gdoc.form]
+
+
+[gdoc.form]: https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform
+[join.slackspace]: https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA
+[channel.intro]: https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000
+[channel.med-experts]: https://app.slack.com/client/TUQTGE7FU/C01056Y0Y8G/thread/C010553SVKN-1585833564.089700
