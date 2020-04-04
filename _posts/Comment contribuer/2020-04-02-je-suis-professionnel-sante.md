@@ -9,12 +9,17 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-**Nous avons besoin de vous!**
-En tant que professionnels de santé, votre rôle est crucial! Si vous avez été infecté par Covid19, contribuer à l'initiative Data Against Covid19 peut être un bon moyen de continuer à vous battre.
+**Nous avons besoin de vous !**
 
-**L'objectif**, c'est d'assister les porteurs de projets sur les problématiques médicales.
+En tant que professionnel de santé, votre rôle est crucial !
 
-**Vous pouvez particulièrement aider** les projets qui se contruisent ici, si vous maitrisez l'un des sous-domaines suivants :
+Si vous avez été infecté par Covid19, contribuer à l'initiative Data Against Covid19 peut être un bon moyen de continuer à vous battre.
+
+**L’objectif** est d’assister les porteurs de projets sur les problématiques médicales.
+
+**Vous pouvez aider les projets** qui se contruisent ici,
+particulièrement si vous maitrisez les sous-domaines suivants :
+
 - Anapath
 - Anesthésie
 - Cardio-vasculaire
