@@ -26,3 +26,6 @@ collect-documentation:
 coronastatus:
   name: coronastatus.fr
   description:
+covid-es:
+  name: covid 2 ElasticSearch
+  description:
