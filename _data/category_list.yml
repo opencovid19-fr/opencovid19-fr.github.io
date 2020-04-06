@@ -23,3 +23,6 @@ dataviz:
 collect-documentation:
   name: Covid-data
   description:
+coronastatus:
+  name: coronastatus.fr
+  description:

@@ -11,13 +11,13 @@ short-description: Ce que nous faisons et comment aider
 
 [**INFORMATION IMPORTANTE** : La collecte des données à la main est désormais arrêtée, car SPF a mis les données disponibles en libre accès sur data.gouv]
 
-[**INFORMATION IMPORTANTE** : Il y a toujours un intérêt pour les informations non disponibles via SPF et pour l’outre mer**]
+[**INFORMATION IMPORTANTE** : Il y a toujours un intérêt pour les informations non disponibles via SPF et pour l’outre mer]
 
 **L'objectif**, c'est de rassembler les données mises à disposition par les organismes officiels sur le Coronavirus : Ministère des Solidarités et de la Santé, Santé Publique France (SPF), les différentes Agences Régionales de Santé des régions françaises, etc.
 
 **Pour collecter des données, vous aurez besoin d'un compte Github.**
-- Sur l'utilisation de GitHub : https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y/p1585342152122100
-- Sur la collecte de données  : https://github.com/opencovid19-fr/data/blob/master/README.md
+- Sur l'utilisation de GitHub : [https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y/p1585342152122100](https://dataagainstcovid-19.slack.com/archives/CV3M7RE8Y/p1585342152122100)
+- Sur la collecte de données  : [https://github.com/opencovid19-fr/data/blob/master/README.md](https://github.com/opencovid19-fr/data/blob/master/README.md)
 - Vous pouvez aussi consulter le [guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
 
 **N'oubliez pas de rejoindre les canaux principaux de la thématique "collecte des données":**

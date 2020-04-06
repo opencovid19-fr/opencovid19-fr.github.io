@@ -8,7 +8,7 @@ short-description: Ce que nous faisons et comment aider
 ---
 
 -----
-**Merci d'avoir ressenti l'envie de contribuer!**
+**Merci d'avoir ressenti l'envie de contribuer!** 
 
 **Vous pouvez aider à tous les niveaux**, voici quelques manières de participer:
 - Vous pouvez vous engager dans la collecte de données
