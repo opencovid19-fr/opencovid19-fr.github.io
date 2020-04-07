@@ -9,7 +9,7 @@ short-description: Tableau de bord de suivi de l'épidémie de nouveau coronavir
 
 # Tableau de bord de suivi de l'épidémie de nouveau coronavirus
 
-## Projet coopté par Etalab
+## Projet coopté par Etalab : https://dashboard.covid19.data.gouv.fr/
 
 Cet outil contributif tente de proposer une vision [consolidée](https://github.com/opencovid19-fr/data) des données officielles disponibles.
 
