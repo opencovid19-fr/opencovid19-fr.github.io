@@ -9,6 +9,8 @@ short-description: Tableau de bord de suivi de l'épidémie de nouveau coronavir
 
 # Tableau de bord de suivi de l'épidémie de nouveau coronavirus
 
+## Projet coopté par Etalab
+
 Cet outil contributif tente de proposer une vision [consolidée](https://github.com/opencovid19-fr/data) des données officielles disponibles.
 
 **Product Owner** : Jérôme Desboeuf
