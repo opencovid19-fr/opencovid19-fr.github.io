@@ -22,11 +22,11 @@ En tant que Data-Scientist vous savez utiliser des algorithmes et des outils qui
 - Estimer le délai de guérison
 
 **Pour contribuer activement, voici la procédure à suivre:**
-1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
-2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
+1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
+2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://dataagainstcovid-19.slack.com/)
 3. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
 4. Rejoignez en priorité le canal [#wp-viz-visualisation-data](https://app.slack.com/client/TUQTGE7FU/C01056WN68G/thread/C010553SVKN-1585833564.089700) qui réunit tous les projets en lien avec la visualisation de données. Rejoignez ensuite les projets estampillés #prj-viz-... afin de vous inscrire dans des démarches existantes.
 5. Alternative : pour discuter surmortalité, rejoignez directement le canal [#wp-pml-deces-covid](https://app.slack.com/client/TUQTGE7FU/C010WLDLSR3/thread/C01056WN68G-1585838449.123800)
 
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
