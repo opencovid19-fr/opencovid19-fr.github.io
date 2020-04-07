@@ -18,35 +18,44 @@ En tant que professionnel de santé, votre rôle est crucial !
 **Vous pouvez aider les projets** qui se contruisent ici,
 particulièrement si vous maitrisez les sous-domaines suivants :
 
+Spécialités médicales:
+----------------------
+
 - Anathomo-pathologie
 - Anesthésie
 - Cardiologie
-- Communication médicale
 - Diabeto-endocrinologie
-- Epidemiologie
-- Ethique
 - Gériatrie
-- Guides methodologiques
-- Gynecologie-obstetrique
+- Gynecologie-obstétrique
 - Hepato-gastro-enterologie
-- Hygiène
-- Imagerie médicale
 - Infectiologie
-- Intelligence artificielle
-- Laboratoire
-- Médecine Interne
-- Médecine de Ville
-- Nephrologie
+- Médecine interne
+- Médecine de ville
+- Néphrologie
 - Odonto-stomatologie
 - Oncologie
 - Ophtalmologie
 - ORL
-- Orthopédie (chirurgie)
+- Orthopédie
 - Pédiatrie
 - Pneumologie
 - Psychiatrie
+- Radiologie
+- Réanimation
 - Soins palliatifs
-- Urgences-reanimation
+- Urgences
+
+Autres métiers:
+---------------
+
+- Communication médicale
+- Épidemiologie
+- Éthique
+- Guides methodologiques
+- Hygiène
+- Imagerie médicale
+- Intelligence artificielle
+- Laboratoire
 
 
 **Pour contribuer activement, voici la procédure à suivre :**
