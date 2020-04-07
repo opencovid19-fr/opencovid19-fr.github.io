@@ -19,4 +19,4 @@ Voici quelques étapes visant à faciliter le lancement d'un nouveau projet et l
 6. Parlez de votre projet dans le canal du(des) work packages auquel il se rattache.
 7. Recrutez directement dans #reserve-tech #reserve-chefs-projets #reserve-autre"
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
