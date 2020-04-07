@@ -7,7 +7,7 @@ author: admin
 short-description: Qui sommes-nous?
 ---
 
-[**Data Against Covid-19**](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
+[**Data Against Covid-19**](https://dataagainstcovid-19.slack.com)
 
 **Le but de cette initiative** était initialement de rassembler et promouvoir des données ouvertes sur l'épidémie de Coronavirus COVID-19 qui frappe en ce moment la France et le reste du monde.
 
