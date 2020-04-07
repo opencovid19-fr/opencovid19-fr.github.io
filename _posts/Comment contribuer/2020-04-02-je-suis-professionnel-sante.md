@@ -62,7 +62,7 @@ particulièrement si vous maitrisez les sous-domaines suivants :
 ##### [Contribuer à Data Against Covid-19][gdoc.form]
 
 
-[gdoc.form]: https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform
-[join.slackspace]: https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA
+[gdoc.form]: https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform
+[join.slackspace]: https://dataagainstcovid-19.slack.com/
 [channel.intro]: https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000
 [channel.med-experts]: https://app.slack.com/client/TUQTGE7FU/C01056Y0Y8G/thread/C010553SVKN-1585833564.089700
