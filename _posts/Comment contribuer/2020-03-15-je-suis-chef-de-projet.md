@@ -14,8 +14,8 @@ short-description: Ce que nous faisons et comment aider
 **Vous êtes un chef de projet expérimenté avec plusieurs années d'expérience?** Alors vous pourrez venir en renfort de chefs de projets junior auxquels vous pourrez prodiguer des conseils et recommandations. Offrez cette chance à leurs projets!
 
 **Pour contribuer activement, voici la procédure à suivre:**
-1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
-2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
+1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
+2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://dataagainstcovid-19.slack.com/)
 4. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
 5. Gardez un oeil sur les canaux [#reserve-tech](https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/user_profile/UV7BB6V5H), [#reserve-autre](https://app.slack.com/client/TUQTGE7FU/C010GHUTNJZ/user_profile/UV7BB6V5H) et [#reserve-chef-de-projet](https://app.slack.com/client/TUQTGE7FU/C010GHURJJ1/user_profile/UV7BB6V5H) ainsi que sur la rubrique [#nouveaux-projets](https://app.slack.com/client/TUQTGE7FU/C0104CJLN9F/user_profile/UV7BB6V5H)
 Des projets et missions y sont presentés.
@@ -23,6 +23,6 @@ Explorez également les canaux de "work package", nos thématiques principales. 
 
 **Des outils sont actuellement en train d'être conçus afin de vous permettre d'intéragir avec les projets existants.** En tant que chefs de projet expérimentés, pour l'instant, rapprochez-vous manuellement de vos juniors en proposant vos services. Nous mettons tout en oeuvre pour améliorer ce matching au plus vite.
 
-Si vous ne l'avez pas fait, veuillez remplir [notre formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform). Ces informations sont accessibles aux chefs de projet juniors qui vous contacteront selon leur besoin.
+Si vous ne l'avez pas fait, veuillez remplir [notre formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform). Ces informations sont accessibles aux chefs de projet juniors qui vous contacteront selon leur besoin.
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
