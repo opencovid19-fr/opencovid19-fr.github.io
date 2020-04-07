@@ -24,19 +24,11 @@ Spécialités médicales:
 - Anathomo-pathologie
 - Anesthésie
 - Cardiologie
-- Communication médicale
 - Diabeto-endocrinologie
-- Epidemiologie
-- Ethique
 - Gériatrie
-- Guides methodologiques
 - Gynecologie-obstetrique
 - Hepato-gastro-enterologie
-- Hygiène
-- Imagerie médicale
 - Infectiologie
-- Intelligence artificielle
-- Laboratoire
 - Médecine Interne
 - Médecine de Ville
 - Nephrologie
@@ -54,6 +46,14 @@ Spécialités médicales:
 Autres métiers:
 ---------------
 
+- Communication médicale
+- Épidemiologie
+- Éthique
+- Guides methodologiques
+- Hygiène
+- Imagerie médicale
+- Intelligence artificielle
+- Laboratoire
 
 
 **Pour contribuer activement, voici la procédure à suivre :**
