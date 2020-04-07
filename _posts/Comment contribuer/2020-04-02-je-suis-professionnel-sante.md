@@ -18,6 +18,9 @@ En tant que professionnel de santé, votre rôle est crucial !
 **Vous pouvez aider les projets** qui se contruisent ici,
 particulièrement si vous maitrisez les sous-domaines suivants :
 
+Spécialités médicales:
+----------------------
+
 - Anathomo-pathologie
 - Anesthésie
 - Cardiologie
@@ -47,6 +50,10 @@ particulièrement si vous maitrisez les sous-domaines suivants :
 - Psychiatrie
 - Soins palliatifs
 - Urgences-reanimation
+
+Autres métiers:
+---------------
+
 
 
 **Pour contribuer activement, voici la procédure à suivre :**
