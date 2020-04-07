@@ -26,4 +26,4 @@ short-description: Ce que nous faisons et comment aider
 - wp-dat-coronastatus
 - et tous autres canal commençant par wp-dat-***
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
