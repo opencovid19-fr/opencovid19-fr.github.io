@@ -26,22 +26,24 @@ Spécialités médicales:
 - Cardiologie
 - Diabeto-endocrinologie
 - Gériatrie
-- Gynecologie-obstetrique
+- Gynecologie-obstétrique
 - Hepato-gastro-enterologie
 - Infectiologie
-- Médecine Interne
-- Médecine de Ville
-- Nephrologie
+- Médecine interne
+- Médecine de ville
+- Néphrologie
 - Odonto-stomatologie
 - Oncologie
 - Ophtalmologie
 - ORL
-- Orthopédie (chirurgie)
+- Orthopédie
 - Pédiatrie
 - Pneumologie
 - Psychiatrie
+- Radiologie
+- Réanimation
 - Soins palliatifs
-- Urgences-reanimation
+- Urgences
 
 Autres métiers:
 ---------------
