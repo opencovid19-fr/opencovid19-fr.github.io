@@ -25,10 +25,10 @@ L'objectif pour d'autres projets, c'est de produire des datavisualisation léch�
 Il y a actuellement beaucoup de projets et leur nombre ne cesse de s'accroître. **Quelqu'un a besoin de vos compétences!**
 
 **Pour contribuer activement, voici la procédure à suivre:**
-1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
-2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://join.slack.com/t/dataagainstcovid-19/shared_invite/zt-cgsplso2-LIvWeRHlf1ZFIrh~SPj~IA)
+1. Remplissez [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
+2. Connectez-vous au Workspace Slack [Data Against Covid-19](https://dataagainstcovid-19.slack.com/)
 3. Présentez-vous dans le canal [#intro](https://app.slack.com/client/TUQTGE7FU/C010DRZCJQL/thread/CV3M7RE8Y-1585336854.107000)
 4. Rejoignez en priorité le canal [#Reserve-tech](https://app.slack.com/client/TUQTGE7FU/C0104P6HVQU/thread/CV3M7RE8Y-1585336854.107000) et surveillez l'apparition de nouvelles missions
 5. Surveillez les canaux nommés prj-\*\*\*, ces projets ont probablement besoin de vous
   
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
