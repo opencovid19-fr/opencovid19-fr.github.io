@@ -6,7 +6,7 @@ Téléchargez la présentation de l'initiative et de ses projets [`Data_Against_
 
 ## Comment
 
-### Ajouter un nouveau projet
+## Ajouter un nouveau projet
 
 Prenons l'exemple d'ajouter un projet nommé `FOOBAR`:
 
