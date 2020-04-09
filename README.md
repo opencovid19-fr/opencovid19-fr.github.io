@@ -44,15 +44,15 @@ Prenons l'exemple d'ajouter un projet nommé `FOOBAR`:
 		**Outils utilisés :**
 		- Liste des briques techniques utilisées
 
-	- Enregistrer cet article dans `_post/foobar/1970-01-01-foobar.md` par exemple.
-	- S'assurer que dans le `category`qui se trouve dans le header du post markdown est celui créé dans le fichier `category_list.yml` juste avant.
+- Enregistrer cet article dans `_post/foobar/1970-01-01-foobar.md` par exemple.
+- S'assurer que dans le `category`qui se trouve dans le header du post markdown est celui créé dans le fichier `category_list.yml` juste avant.
 
 	
 ### 3. Ajouter une landing page
 
-	- A la racine du repo, créer un fichier `projet-foobar.html` correspondant au nom de la catégorie crée ci-avant.
-	- Il y a deux cas:
-		- Il y a de multiples posts dans cette catégorie alors le fichier aura la structure suivante:
+- A la racine du repo, créer un fichier `projet-foobar.html` correspondant au nom de la catégorie crée ci-avant.
+- Il y a deux cas:
+	- Il y a de multiples posts dans cette catégorie alors le fichier aura la structure suivante:
 
 				---
 				layout: category
@@ -66,7 +66,7 @@ Prenons l'exemple d'ajouter un projet nommé `FOOBAR`:
 				{% endfor %}
 
 		
-		- Il n'y a qu'un post:
+	- Il n'y a qu'un post:
 
 				---
 				layout: category
