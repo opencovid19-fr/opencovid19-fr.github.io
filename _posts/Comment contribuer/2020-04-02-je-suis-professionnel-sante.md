@@ -23,6 +23,7 @@ Spécialités médicales:
 
 - Anathomo-pathologie
 - Anesthésie
+- Biologiste médical
 - Cardiologie
 - Diabeto-endocrinologie
 - Gériatrie
@@ -38,6 +39,7 @@ Spécialités médicales:
 - ORL
 - Orthopédie
 - Pédiatrie
+- Pharmacien
 - Pneumologie
 - Psychiatrie
 - Radiologie
