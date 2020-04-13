@@ -2,7 +2,7 @@
 	layout: post
 	title: "Validation qPCR"
 	date: 2020-04-06 08:44:38 -0400 
-	category: tests_pcr
+	category: validation_qpcr
 	author: Sacha Schutz
 	short-description: template html pour validation de résultats
 	---
