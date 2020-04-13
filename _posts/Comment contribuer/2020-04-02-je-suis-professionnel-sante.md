@@ -20,6 +20,7 @@ particulièrement si vous maitrisez les sous-domaines suivants :
 
 - Anathomo-pathologie
 - Anesthésie
+- Biologiste médical
 - Cardiologie
 - Communication médicale
 - Diabeto-endocrinologie
@@ -43,6 +44,7 @@ particulièrement si vous maitrisez les sous-domaines suivants :
 - ORL
 - Orthopédie (chirurgie)
 - Pédiatrie
+- Pharmacien
 - Pneumologie
 - Psychiatrie
 - Soins palliatifs
