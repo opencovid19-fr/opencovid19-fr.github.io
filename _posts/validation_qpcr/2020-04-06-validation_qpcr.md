@@ -15,10 +15,10 @@ short-description: template html pour validation de résultats
 
 **Objectif** : Création d'un template HTML pour la validation des résultats covid-19 en q-PCR
 
-**Livrable** : [](https://github.com/dridk/qpcr_covid_template/blob/master/render.html)
+**Livrable** : [https://github.com/dridk/qpcr_covid_template/blob/master/render.html](https://github.com/dridk/qpcr_covid_template/blob/master/render.html)
 
 **Organisation du projet :**
-- Github : [](https://github.com/dridk/qpcr_covid_template)
+- Github : [https://github.com/dridk/qpcr_covid_template](https://github.com/dridk/qpcr_covid_template)
 
 **Outils utilisés :**
 
