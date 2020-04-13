@@ -35,15 +35,18 @@ NB: ne pas mettre de '_' dans le nom de la catégorie ajoutée.
 	# Headliner du projet Foobar en texte libre
 	
 	**Product Owner** : Liste des responsables de projets		
+	
 	**Objectif** : Description du projet Foobar en texte libre plus long.s
 	
 	**Livrable** : [nom du site web](https://<url du site web>)
 	
 	**Organisation du projet :**
+	
 	- Canaux slack :
 	    - canal du projet sur le slack de data againt covid19
 	
 	**Outils utilisés :**
+	
 	- Liste des briques techniques utilisées
 
 - Enregistrer cet article dans `_post/foobar/1970-01-01-foobar.md` par exemple.
