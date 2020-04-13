@@ -29,6 +29,6 @@ coronastatus:
 covid-es:
   name: covid 2 ElasticSearch
   description:
-tests_pcr:
+validation_qpcr:
   name: validation qPCR
   description:
