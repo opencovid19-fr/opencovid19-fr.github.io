@@ -9,7 +9,7 @@ short-description: visualisant des dimensions géographiques et temporelles
 
 -----
 
-# Visualisation des données hospitalières qui combine les dimensions géographiques et temporelles sur une vue synthétique
+# Visualisation des données hospitalières qui combine les dimensions géographiques et temporelles dans une vue synthétique
 
 **Product Owner** : Alain Ottenheimer
 
