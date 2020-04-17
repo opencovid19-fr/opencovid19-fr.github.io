@@ -52,6 +52,7 @@ NB: ne pas mettre de '_' dans le nom de la catégorie ajoutée.
 - Enregistrer cet article dans `_post/foobar/1970-01-01-foobar.md` par exemple.
 - S'assurer que dans le `category`qui se trouve dans le header du post markdown est celui créé dans le fichier `category_list.yml` juste avant.
 
+NB: ne pas mettre de tabulation avant les posts en markdown, sinon ils sont considérés comme des quotes
 	
 ### 3. Ajouter une landing page
 
@@ -85,7 +86,9 @@ NB: ne pas mettre de '_' dans le nom de la catégorie ajoutée.
 				
 ### 4. Pousser les fichiers sur le site pour qu'il soit construit sur Github Pages
 
-				
-	
+
+
+
+
 
 
