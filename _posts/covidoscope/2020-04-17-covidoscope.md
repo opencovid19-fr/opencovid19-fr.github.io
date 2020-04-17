@@ -13,11 +13,8 @@ short-description: visualisant des dimensions géographiques et temporelles
 
 **Product Owner** : Alain Ottenheimer
 
-**Objectif** : Explorateur de données inspiré de https://observablehq.com/@aboutaaron/small-multiple-chart-cartogram
-De nombreux indicateurs sont disponibles:
-Nombre cumulé de personnes décédées pour COVID-19 depuis le 1er mars 2020 (hommes + femmes), 
-Nombre de personnes actuellement hospitalisées pour COVID-19 (hommes + femmes), 
-Nombre de personnes actuellement en réanimation ou soins intensifs pour COVID-19 (hommes + femmes), etc.
+**Objectif** : Explorateur de données inspiré de https://observablehq.com/@aboutaaron/small-multiple-chart-cartogram.
+De nombreux indicateurs sont disponibles, comme le nombre cumulé de personnes décédées pour COVID-19 depuis le 1er mars 2020 (hommes + femmes), le ombre de personnes actuellement hospitalisées pour COVID-19 (hommes + femmes) ou encore le ombre de personnes actuellement en réanimation ou soins intensifs pour COVID-19 (hommes + femmes).
 
 **Livrable** : [http://www.toulouse-dataviz.fr/covidoscope/html/index_covidOscope.html](http://www.toulouse-dataviz.fr/covidoscope/html/index_covidOscope.html)
 
