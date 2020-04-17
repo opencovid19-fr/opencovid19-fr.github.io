@@ -32,3 +32,6 @@ covid-es:
 validation-qpcr:
   name: validation qPCR
   description:
+covidoscope:
+  name: CovidOscope
+  description:
